@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/abhishekchauhan15/GreenHack#readme",
   "dependencies": {
-    "jsonfile": "^6.1.0"
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.1",
+    "random": "^3.0.6",
+    "simple-git": "^2.48.0"
   }
 }
